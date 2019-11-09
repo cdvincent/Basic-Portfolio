@@ -101,7 +101,6 @@ a {
     color:blue;
 }
 
-}
 a:hover{
     color:black;
     font-style: bold;
@@ -118,7 +117,8 @@ color:purple;
 }
 
 .portfolio {
-    height:575px; 
+    height:1000px;
+
 }
 
 #container {
@@ -211,6 +211,33 @@ color:purple;
     text-align:center;
     text-decoration:underline;
 }
+
+#box5 {
+    color:white;
+    background-color:#4aaaa5;
+    position:absolute;
+    margin: 180px 0 0 40px;
+    width:310px;
+    height:43px;
+    font-size: 18px;
+    text-align:center;
+    text-decoration:underline;
+    padding:20px;
+}
+
+#box6 {
+    color:white;
+    background-color:#4aaaa5;
+    position:absolute;
+    margin: 180px 0 0 430px;
+    width:310px;
+    height:43px;
+    font-size: 18px;
+    text-align:center;
+    text-decoration:underline;
+    padding:20px;
+}
+
 
 #name {
     margin-left: 25px;
